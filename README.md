@@ -1,4 +1,4 @@
-# StudentsApp (WinForms + SQLite + JSON/TXT)
+# 💼 StudentsApp (WinForms + SQLite + JSON/TXT)
 
 ## Alunos:
 - Camila do Prado Padalino - RM98316
