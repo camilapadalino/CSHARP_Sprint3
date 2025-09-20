@@ -1,6 +1,12 @@
 # StudentsApp (WinForms + SQLite + JSON/TXT)
 
-Entrega da **Sprint 3 – C#** com os itens do enunciado:
+## Alunos:
+- Camila do Prado Padalino - RM98316
+- Felipe Cavalcante Bressane - RM97688
+- Gabriel Teixeira Machado - RM551570
+- Guilherme Brazioli - RM98237
+
+## Entrega da **Sprint 3 – C#** com os itens do enunciado:
 
 - **Estruturação de classes e código limpo (25%)**  
   Arquitetura em camadas: `Domain`, `Infrastructure`, `Services` e `UI`. Validação centralizada em `Student.Validate()`.  
