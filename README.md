@@ -32,6 +32,7 @@
 2. Selecione uma linha na grade para carregar no formulário; altere e clique **Atualizar**.  
 3. Para excluir, selecione uma linha e clique **Excluir**.  
 4. **Exportar JSON/TXT** e **Importar JSON** estão nos botões da tela.
+5. ARquivo "ListaTeste.json" para add lista de alunos
 
 ## Camadas & Responsabilidades
 
