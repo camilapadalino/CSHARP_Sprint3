@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Clara Martins",
+    "RM": "RM1001",
+    "CPF": "123.456.789-00",
+    "Email": "clara.martins@example.com"
+  },
+  {
+    "Name": "João Pedro Alves",
+    "RM": "RM1002",
+    "CPF": "987.654.321-11",
+    "Email": "joao.alves@example.com"
+  },
+  {
+    "Name": "Larissa Christiny",
+    "RM": "RM1003",
+    "CPF": "111.222.333-44",
+    "Email": "larissa.christiny@example.com"
+  },
+  {
+    "Name": "Miguel Rocha",
+    "RM": "RM1004",
+    "CPF": "555.666.777-88",
+    "Email": "miguel.rocha@example.com"
+  },
+  {
+    "Name": "Sofia Lima",
+    "RM": "RM1005",
+    "CPF": "00011122233",
+    "Email": "sofia.lima@example.com"
+  },
+  {
+    "Name": "Enzo Carvalho",
+    "RM": "RM1006",
+    "CPF": "44455566677",
+    "Email": "enzo.carvalho@example.com"
+  },
+  {
+    "Name": "Helena Duarte",
+    "RM": "RM1007",
+    "CPF": "222.333.444-55",
+    "Email": "helena.duarte@example.com"
+  },
+  {
+    "Name": "Gabriel Nogueira",
+    "RM": "RM1008",
+    "CPF": "88899900011",
+    "Email": "gabriel.nogueira@example.com"
+  },
+  {
+    "Name": "Isabela Castro",
+    "RM": "RM1009",
+    "CPF": "333.222.111-00",
+    "Email": "isabela.castro@example.com"
+  },
+  {
+    "Name": "Theo Menezes",
+    "RM": "RM1010",
+    "CPF": "66677788899",
+    "Email": "theo.menezes@example.com"
+  },
+  {
+    "Name": "Valentina Pires",
+    "RM": "RM1011",
+    "CPF": "99988877766",
+    "Email": "valentina.pires@example.com"
+  },
+  {
+    "Name": "Benício Moreira",
+    "RM": "RM1012",
+    "CPF": "070.190.650-12",
+    "Email": "benicio.moreira@example.com"
+  },
+  {
+    "Name": "Luiza Fernandes",
+    "RM": "RM1013",
+    "CPF": "412.700.350-91",
+    "Email": "luiza.fernandes@example.com"
+  },
+  {
+    "Name": "Davi Costa",
+    "RM": "RM1014",
+    "CPF": "310.820.940-17",
+    "Email": "davi.costa@example.com"
+  },
+  {
+    "Name": "Ana Júlia Ribeiro",
+    "RM": "RM1015",
+    "CPF": "104.330.220-05",
+    "Email": "ana.ribeiro@example.com"
+  }
+]
