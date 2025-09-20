@@ -8,18 +8,14 @@
 
 ## Entrega da **Sprint 3 – C#** com os itens do enunciado:
 
-- **Estruturação de classes e código limpo (25%)**  
+- **Estruturação de classes e código limpo**  
   Arquitetura em camadas: `Domain`, `Infrastructure`, `Services` e `UI`. Validação centralizada em `Student.Validate()`.  
-- **Manipulação de arquivos (txt/json) (20%)**  
+- **Manipulação de arquivos (txt/json)**  
   `FileService` exporta/importa **JSON** e exporta **TXT**.
-- **Conexão com banco de dados – CRUD completo (20%)**  
+- **Conexão com banco de dados – CRUD completo**  
   `StudentRepository` com **Create/ReadAll/Update/Delete** usando **SQLite** (pacote `Microsoft.Data.Sqlite`).  
-- **Interface (Windows Forms) (15%)**  
+- **Interface (Windows Forms)**  
   `MainForm` com **DataGridView** + **TextBoxes** + botões **Adicionar/Atualizar/Excluir/Limpar/Recarregar/Exportar/Importar**.
-- **Documentação (10%)**  
-  Este README explica como rodar, a arquitetura, decisões e como avaliar.
-- **Arquitetura em diagramas (10%)**  
-  Veja `docs/diagram.png`.
 
 ## Como rodar
 
@@ -44,12 +40,6 @@
 - **Services**: `StudentService` (regras de negócio simples) e `FileService` (TXT/JSON).
 - **UI**: `MainForm` (WinForms).
 
-## Decisões de Projeto
-
-- **SQLite local**: zero dependência externa e fácil avaliação.  
-- **Validação**: feita antes de persistir para evitar dados inválidos.  
-- **UI sem Designer**: os controles são criados programaticamente para facilitar a correção sem arquivos `.Designer.cs` grandes.
-
 ## Estrutura de Pastas
 
 ```
@@ -63,16 +53,3 @@ StudentsApp/
 docs/
   diagram.png
 ```
-
-## Diagrama
-
-Veja `docs/diagram.png` (camadas e fluxos principais).
-
-## Avaliação sugerida (rubrica)
-
-- Classes e código limpo: **✔**
-- Arquivos TXT/JSON: **✔**
-- CRUD completo com DB: **✔**
-- Interface WinForms: **✔**
-- Documentação: **✔**
-- Diagrama: **✔**
